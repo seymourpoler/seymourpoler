@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://github.com/seymourpoler/seymourpoler/edit/main/README.md">me</a> .
+    <a href="[https://antfu.me/posts](https://aprendiendoatirarlineasdecodigo.blogspot.com/)">blog</a> .
+    <a href="[https://twitter.com/antfu7](https://x.com/seymourpoler)">tweets</a>
+  </samp>
+</p>
 
 <!--
 **seymourpoler/seymourpoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
