@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://github.com/seymourpoler/seymourpoler/edit/main/README.md">me</a> .
+    <a href="https://www.linkedin.com/in/luis-gabriel-rodr%C3%ADguez-alejos-8ba69237/">me</a> .
     <a href="https://aprendiendoatirarlineasdecodigo.blogspot.com/">blog</a> .
     <a href="https://x.com/seymourpoler">tweets</a>
   </samp>
