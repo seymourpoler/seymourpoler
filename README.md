@@ -1,4 +1,7 @@
 <p align="center">
+  <p>
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=seymourpoler&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seymourpoler&layout=compact&theme=tokyonight)
+  </p>
   <samp>
     <a href="https://www.linkedin.com/in/luis-gabriel-rodr%C3%ADguez-alejos-8ba69237/">me</a> .
     <a href="https://aprendiendoatirarlineasdecodigo.blogspot.com/">blog</a> .
